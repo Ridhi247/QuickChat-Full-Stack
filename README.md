@@ -1,4 +1,4 @@
-# 🏨 QuickChat – Real-Time Chat Application
+# 📨 QuickChat – Real-Time Chat Application
 
 QuickChat is a full-stack real-time messaging web application that enables users to communicate instantly with secure authentication, live online status, image sharing, and responsive chat features.
 
@@ -69,7 +69,7 @@ QuickChat is a full-stack real-time messaging web application that enables users
 ## 🔧 Installation
 
 ### 1️⃣ Clone the Repository
-git clone https://github.com/your-username/QuickChat.git
+git clone: https://github.com/Ridhi247/QuickChat-Full-Stack
 
 cd QuickChat
 ### 2️⃣ Install Frontend Dependencies
