@@ -4,9 +4,9 @@ QuickChat is a full-stack real-time messaging web application that enables users
 
 ---
 
-##🚀 Features
+## 🚀 Features
 
-###🔐 Authentication
+### 🔐 Authentication
 - Secure user login and signup
 - JWT-based authentication
 - Protected chat routes
